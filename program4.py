@@ -1,5 +1,9 @@
 from itertools import permutations 
-
+"""
+    Team: Dillusioners
+    By: jayspray
+    For: Duel against UwU
+"""
 num_str = ""
 i = 1
 
