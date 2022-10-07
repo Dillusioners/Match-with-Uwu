@@ -39,4 +39,4 @@ public class program1
     }
 }
 //Author --Tommy Shleby#6605
-//leder --jayspray#4176
+//Leader --jayspray#4176
